@@ -44,8 +44,12 @@ Add GoogleAnalytics pod as usual, create sripped version of library and place it
 Thanks
 ------
 
-Special thanks to this article and it's author
+Special thanks to Falko Buttler for great idea from this post
 
-			http://atnan.com/blog/2012/01/12/avoiding-duplicate-symbol-errors-during-linking-by-removing-classes-from-static-libraries
+https://groups.google.com/forum/#!topic/ga-mobile-app-analytics/0mr85C7704M
+
+And thanks to author of this article
+
+http://atnan.com/blog/2012/01/12/avoiding-duplicate-symbol-errors-during-linking-by-removing-classes-from-static-libraries
 	
 	
