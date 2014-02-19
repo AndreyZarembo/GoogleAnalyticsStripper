@@ -1,7 +1,7 @@
 #!/bin/bash
 
 platformLibsString=""
-for platform in {'armv7','armv7s','i386'}
+for platform in {'armv7','armv7s','arm64','i386','x86_64'}
 do
     # for every platform do
     # extract library for this platform
