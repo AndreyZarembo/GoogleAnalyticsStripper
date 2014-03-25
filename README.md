@@ -9,7 +9,7 @@ This library can be used with Cocoapods GoogleAnalytics.
 
 ***IMPORTANT***
 
-My app with this library is still waiting for review. I can't confirm, that app with stripped library will be approved.
+My app successfully passed Apple Review with this library.
 
 
 How to use
